@@ -6,7 +6,7 @@
 
 ### Hi, Developers!!! ⚡⚡⚡
 ### This Repository contains all the works of our Community 🌟🌟🌟, 
-### Our Community is built by the people who are interested in Machine Learning 💡💡💡
-### If you are one of the person who is interested in Learning 🤩🤩🤩
-### You are free to ***Join*** whenever you want 🤗🤗🤗
-### You refer to our works in this Repository to learn and Practice 💖💖💖
+### Our Community is built by the people who are interested in Machine Learning 💡💡💡,
+### If you are one of the person who is interested in Learning 🤩🤩🤩,
+### You are free to ***Join*** whenever you want 🤗🤗🤗,
+### You refer to our works in this Repository to learn and Practice 💖💖💖.
